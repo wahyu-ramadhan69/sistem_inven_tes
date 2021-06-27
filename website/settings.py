@@ -13,7 +13,7 @@ SECRET_KEY = 'do_(3qruy6(z7e+&7bym=jn$!m)e34i#o$kp!qu!v#si)(#%7l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'https://percobaanbaru.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
